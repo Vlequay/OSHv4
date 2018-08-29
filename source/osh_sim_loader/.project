@@ -3,6 +3,37 @@
 	<name>osh_sim_loader</name>
 	<comment></comment>
 	<projects>
+		<project>osh_busdriver_appliance_mielegateway</project>
+		<project>osh_busdriver_automation_bacnet</project>
+		<project>osh_busdriver_automation_wago</project>
+		<project>osh_comdriver_dof</project>
+		<project>osh_comdriver_gui</project>
+		<project>osh_comdriver_logger</project>
+		<project>osh_comdriver_restservice</project>
+		<project>osh_comdriver_signals</project>
+		<project>osh_comdriver_weather</project>
+		<project>osh_core</project>
+		<project>osh_driver_appliance</project>
+		<project>osh_driver_appliance_miele</project>
+		<project>osh_driver_baseload</project>
+		<project>osh_driver_batterystorage</project>
+		<project>osh_driver_chp</project>
+		<project>osh_driver_chp_dachs</project>
+		<project>osh_driver_hvac</project>
+		<project>osh_driver_hvac_chiller_adsorption</project>
+		<project>osh_driver_hvac_heater_gas</project>
+		<project>osh_driver_hvac_heater_ihe</project>
+		<project>osh_driver_hvac_watertank</project>
+		<project>osh_driver_pv</project>
+		<project>osh_driver_smartmeter</project>
+		<project>osh_driver_smartmeter_bcontrol</project>
+		<project>osh_driver_smartplug</project>
+		<project>osh_ems_ea</project>
+		<project>osh_en50523</project>
+		<project>osh_sim_builder</project>
+		<project>RemoteSystemsTempFiles</project>
+		<project>Sunspec_Modbus_Test</project>
+		<project>xbin_lib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

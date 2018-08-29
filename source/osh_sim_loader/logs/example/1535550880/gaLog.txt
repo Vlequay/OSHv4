@@ -1,0 +1,57 @@
+[68] : [===    New Optimization    ===]
+[1000] Fitness: 891.5207624975029
+[1000] Homogeneity mean: 0.3156770833333333, max: 0.4835069444444444, deltaFitnessSpread: 1.2828146209626707
+[2000] Fitness: 874.7128833688537
+[2000] Homogeneity mean: 0.22749131944444437, max: 0.3637152777777778, deltaFitnessSpread: 0.14025845919381955
+[3000] Fitness: 874.7128833688537
+[3000] Homogeneity mean: 0.12609375, max: 0.2534722222222222, deltaFitnessSpread: 0.08372214545563886
+Optimisation stopped after violating minDeltaFitness for 20 generations.
+[3900] Final Fitness: 874.7128833688537
+[5521] : [===    New Optimization    ===]
+[1000] Fitness: 1007.2833693713256
+[1000] Homogeneity mean: 0.3309485815602838, max: 0.4858156028368794, deltaFitnessSpread: 1.047309087424128
+[2000] Fitness: 854.741290907161
+[2000] Homogeneity mean: 0.18617907801418432, max: 0.38386524822695034, deltaFitnessSpread: 0.22745442304047883
+[3000] Fitness: 849.9608259253762
+[3000] Homogeneity mean: 0.18239361702127665, max: 0.2925531914893617, deltaFitnessSpread: 0.1873301250294765
+[4000] Fitness: 844.0397960188885
+[4000] Homogeneity mean: 0.06304078014184394, max: 0.20833333333333334, deltaFitnessSpread: 0.14917159216426837
+[5000] Fitness: 844.0397960188885
+[5000] Homogeneity mean: 0.047500000000000014, max: 0.07712765957446809, deltaFitnessSpread: 0.10106418049787415
+Optimisation stopped after violating minDeltaFitness for 20 generations.
+[5200] Final Fitness: 844.0397960188885
+[15241] : [===    New Optimization    ===]
+[1000] Fitness: 897.6371889069834
+[1000] Homogeneity mean: 0.34184440559440576, max: 0.493006993006993, deltaFitnessSpread: 1.3201436097798038
+[2000] Fitness: 878.1039316121951
+[2000] Homogeneity mean: 0.12026223776223773, max: 0.2770979020979021, deltaFitnessSpread: 0.14003791312964314
+[3000] Fitness: 869.8426757444998
+[3000] Homogeneity mean: 0.0519230769230769, max: 0.10926573426573427, deltaFitnessSpread: 0.06861272402100914
+[4000] Fitness: 869.8426757444998
+[4000] Homogeneity mean: 0.07071678321678326, max: 0.11101398601398602, deltaFitnessSpread: 0.07199379919304388
+Optimisation stopped after violating minDeltaFitness for 20 generations.
+[4200] Final Fitness: 869.8426757444998
+[15459] : [===    New Optimization    ===]
+[1000] Fitness: 1248.4009568791944
+[1000] Homogeneity mean: 0.25006944444444457, max: 0.5, deltaFitnessSpread: 0.8927241983722439
+[2000] Fitness: 876.7558291087629
+[2000] Homogeneity mean: 0.11958333333333336, max: 0.3133680555555556, deltaFitnessSpread: 0.16215978944440723
+[3000] Fitness: 869.1455254059229
+[3000] Homogeneity mean: 0.02393229166666667, max: 0.11024305555555555, deltaFitnessSpread: 0.06307758627032657
+[4000] Fitness: 869.1455254059229
+[4000] Homogeneity mean: 0.03292534722222222, max: 0.044270833333333336, deltaFitnessSpread: 0.049383028502821454
+Optimisation stopped after violating minDeltaFitness for 20 generations.
+[4200] Final Fitness: 869.1455254059229
+[21301] : [===    New Optimization    ===]
+[1000] Fitness: 885.7137615866185
+[1000] Homogeneity mean: 0.3916929824561402, max: 0.5333333333333333, deltaFitnessSpread: 0.9359140600139747
+[2000] Fitness: 854.0791798142495
+[2000] Homogeneity mean: 0.23235964912280704, max: 0.4263157894736842, deltaFitnessSpread: 0.09484724351437351
+[3000] Fitness: 843.8934085093185
+[3000] Homogeneity mean: 0.14090350877192975, max: 0.24210526315789474, deltaFitnessSpread: 0.038101685302723017
+[4000] Fitness: 836.4350314900345
+[4000] Homogeneity mean: 0.10784210526315789, max: 0.15175438596491228, deltaFitnessSpread: 0.07236970296415363
+[5000] Fitness: 836.4350314900345
+[5000] Homogeneity mean: 0.07519298245614038, max: 0.15263157894736842, deltaFitnessSpread: 0.09159820964187042
+Optimisation stopped after violating minDeltaFitness for 20 generations.
+[6000] Final Fitness: 836.4350314900345
